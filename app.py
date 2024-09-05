@@ -31,6 +31,7 @@ app.layout = ddk.App([
 ])
 
 print(1)
+print(2)
 
 @app.callback([
     Output('auth-username', 'children'),
